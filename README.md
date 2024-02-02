@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lukas Pavlicek</h1>
+<h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">A Lukas from Czechia</h3>
 
-- 🔭 I’m currently working on **fast pased combat platformer**
-
-- 🌱 I’m currently learning **Java, JS**
+- 🌱 I’m currently learning **OpenGL and GLSL**
 
 - 📫 How to reach me **lukas.pav0123@gmail.com**
 
