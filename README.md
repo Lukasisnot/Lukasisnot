@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">A Lukas from Czechia</h3>
 
-- 🌱 I’m currently learning **OpenGL and GLSL**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **lukas.pav0123@gmail.com**
 
