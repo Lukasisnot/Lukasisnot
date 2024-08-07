@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">A Lukas from Czechia</h3>
 
-- 🌱 I’m currently learning
+![cat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhrcWpnY2EzcHZmZmFsNnFwazhkZjR0MWxnbjdhbGhrN2o0b250cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10bjbpyWbVmDXq/giphy.webp)
 
-- 📫 How to reach me **lukas.pav0123@gmail.com**
+- 📫 **lukas.pav0123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
